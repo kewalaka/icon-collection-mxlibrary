@@ -99,7 +99,7 @@ Generating mxlibrary out/other.xml
 
 - [Azure Icon Collection](https://github.com/benc-uk/icon-collection) by [benc-uk](https://github.com/benc-uk) for the great icon set collection we all benefit from.
 - [Azure Icon Libraries for Diagrams.net (Draw.io)](https://github.com/pacodelacruz/diagrams-net-azure-libraries) by [pacodelacruz](https://github.com/pacodelacruz) directly inspired yaegashi to make this mxlibrary repository with the latest Azure Icon Collection.
-- [How yaegashi used mxGraph instance in node.js](https://stackoverflow.com/q/55711473/4937930) is a Stack Overflow question that was a critical clue for me to successfully develop [svg2mxlibrary](svg2mxlibrary).
+- [How yaegashi used mxGraph instance in node.js](https://stackoverflow.com/q/55711473/4937930) is a Stack Overflow question that was a critical clue to successfully develop [svg2mxlibrary](svg2mxlibrary).
 
 ## Ownership & copyright
 
