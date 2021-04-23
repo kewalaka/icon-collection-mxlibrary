@@ -6,7 +6,7 @@ This repository contains several mxlibrary sets converted from [Azure Icon Colle
 which is prepared for use as shape libraries on [diagrams.net](https://diagrams.net) (formerly draw.io) application.
 You can easily import them into your documents on the app of online / desktop / VSCode extension versions.
 
-The [svg2mxlibrary](svg2mxlibrary) program which yaegashi used to convert SVG icons into an XML file is also available.
+The [svg2mxlibrary](svg2mxlibrary) program which [yaegashi](https://github.com/yaegashi) used to convert SVG icons into an XML file is also available.
 
 ## How to use
 
